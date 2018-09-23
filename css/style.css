@@ -1,0 +1,16 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+#main-header{
+	min-height: 100vh;
+	background: url("../img/man.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#photo{
+	padding: 50px 0 40px 0;
+}
+#contact{
+	padding: 30px 0;
+}
